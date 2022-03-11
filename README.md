@@ -1,7 +1,5 @@
 # Differentiable Projective Dynamics
 
-[![Travis CI Status](https://travis-ci.com/dut09/diff_pd.svg?branch=master)](https://travis-ci.com/dut09/diff_pd)
-
 This codebase contains our research code for a few publications relevant to differentiable projective dynamics:
 - [DiffPD: Differentiable Projective Dynamics](https://arxiv.org/pdf/2101.05917.pdf) (ACM Transactions on Graphics)
 - [DiffAqua: A Differentiable Computational Design Pipeline for Soft Underwater Swimmers with Shape Interpolation](http://diffaqua.csail.mit.edu/) (ACM SIGGRAPH 2021)
