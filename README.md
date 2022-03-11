@@ -14,8 +14,8 @@ This codebase contains our research code for a few publications relevant to diff
 
 ## Installation
 ```
-git clone --recursive https://github.com/dut09/diff_pd.git
-cd diff_pd
+git clone --recursive https://github.com/mit-gfx/diff_pd_public.git
+cd diff_pd_public
 conda env create -f environment.yml
 conda activate diff_pd
 ./install.sh
