@@ -1,0 +1,5 @@
+__pycache__/
+**/*.zip
+**/*.npy
+soft_starfish_3d_*/
+**/*.data

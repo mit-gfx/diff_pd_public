@@ -1,0 +1,6 @@
+[submodule "external/pbrt-v3"]
+	path = external/pbrt-v3
+	url = https://github.com/mmp/pbrt-v3.git
+[submodule "external/eigen"]
+	path = external/eigen
+	url = https://gitlab.com/libeigen/eigen.git
