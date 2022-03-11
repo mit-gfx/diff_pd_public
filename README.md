@@ -1,7 +1,7 @@
 # Differentiable Projective Dynamics
 
 This codebase contains our research code for a few publications relevant to differentiable projective dynamics:
-- [DiffPD: Differentiable Projective Dynamics](https://arxiv.org/pdf/2101.05917.pdf) (ACM Transactions on Graphics)
+- [DiffPD: Differentiable Projective Dynamics](https://people.csail.mit.edu/taodu/diffpd/index.html) (ACM Transactions on Graphics/SIGGRAPH 2022)
 - [DiffAqua: A Differentiable Computational Design Pipeline for Soft Underwater Swimmers with Shape Interpolation](http://diffaqua.csail.mit.edu/) (ACM SIGGRAPH 2021)
 - [Underwater Soft Robot Modeling and Control with Differentiable Simulation](https://people.csail.mit.edu/taodu/starfish/index.html) (IEEE RA-L/RoboSoft 2021)
 
